@@ -1,0 +1,10 @@
+:root {
+  --cv-primary-900: #171B3A; --cv-primary-700: #143B67; --cv-primary-500: #2F6BFF; --cv-primary-200: #68B8F7;
+  --cv-accent-500: #FF5A3D; --cv-canvas: #F7F2E9; --cv-surface: #FFFFFF; --cv-text: #171B3A; --cv-text-muted: #626779;
+  --cv-font-ui: Manrope, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --cv-motion-compact-duration: 800ms; --cv-motion-full-duration: 4200ms;
+  --cv-motion-easing: cubic-bezier(0.4, 0, 0.2, 1); --cv-radius-pill: 999px;
+}
+.cv-brand-full { display:block; inline-size:clamp(128px,18vw,220px); block-size:auto; }
+.cv-brand-compact { display:block; inline-size:clamp(24px,6vw,64px); block-size:auto; }
+@media (prefers-reduced-motion: reduce) { .cv-brand-motion { display:none; } .cv-brand-static { display:block; } }

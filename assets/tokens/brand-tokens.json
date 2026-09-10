@@ -1,0 +1,59 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "brand": {
+    "color": {
+      "primary": {
+        "900": "#171B3A",
+        "700": "#143B67",
+        "500": "#2F6BFF",
+        "200": "#68B8F7"
+      },
+      "accent": {
+        "500": "#FF5A3D"
+      },
+      "surface": {
+        "canvas": "#F7F2E9",
+        "default": "#FFFFFF"
+      },
+      "text": {
+        "primary": "#171B3A",
+        "secondary": "#626779",
+        "inverse": "#FFFFFF"
+      },
+      "semantic": {
+        "success": "#247A50"
+      }
+    },
+    "typography": {
+      "family": {
+        "ui": "Manrope, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+      },
+      "weight": {
+        "regular": 400,
+        "medium": 500,
+        "semibold": 600,
+        "bold": 700
+      }
+    },
+    "motion": {
+      "compact": {
+        "duration": "800ms",
+        "asset": "icon-compact-motion-r19.svg"
+      },
+      "full": {
+        "duration": "4200ms",
+        "routeDuration": "900ms",
+        "asset": "logo-motion-dark-r19.svg"
+      },
+      "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "reducedMotion": "static-final-frame"
+    },
+    "logo": {
+      "clearSpace": "2x, x = coral point diameter",
+      "minimumWidthDigital": "128px",
+      "recommendedHeaderWidth": "180px",
+      "compactMinimum": "16px",
+      "compactRecommended": "24px"
+    }
+  }
+}
