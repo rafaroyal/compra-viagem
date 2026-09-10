@@ -1,0 +1,33 @@
+{
+  "componentSet": "Brand / Logo",
+  "status": "implementation-ready",
+  "note": "Figma does not automatically switch variants from parent width. Designers choose Format; the front-end auto mode uses a container query.",
+  "properties": {
+    "Format": ["Full", "Compact"],
+    "Theme": ["Light", "Dark"],
+    "Motion": ["Static", "Animated"],
+    "Size": ["16", "24", "32", "48", "64", "128", "160", "180", "220"]
+  },
+  "rules": {
+    "fullMinimum": 128,
+    "fullRecommendedHeader": [180, 220],
+    "compactMinimum": 16,
+    "compactRecommendedMinimum": 24,
+    "automaticSwitchBelow": 128,
+    "reducedMotion": "Static",
+    "navigationMotion": "Static",
+    "fullMotionContexts": ["Institutional", "Confirmation"],
+    "compactMotionContexts": ["App opening"]
+  },
+  "variantNames": [
+    "Logo / Full / Light / Static",
+    "Logo / Full / Dark / Static",
+    "Logo / Full / Light / Animated",
+    "Logo / Full / Dark / Animated",
+    "Logo / Compact / Light / Static",
+    "Logo / Compact / Dark / Static",
+    "Logo / Compact / Light / Animated",
+    "Logo / Compact / Dark / Animated"
+  ]
+}
+
