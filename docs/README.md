@@ -12,5 +12,8 @@ Esta documentação transforma as decisões aprovadas em regras de uso para desi
 8. [Implementação](implementation.md)
 9. [Índice de arquivos](file-index.md)
 10. [Histórico de entregas](delivery-status.md)
+11. [Fotografia, imagens geradas e direitos de uso](photography-and-ai.md)
+12. [Exports de produção](production-exports.md)
+13. [Manifesto de geração de imagens](image-generation-manifest.md)
 
 O [manual oficial em PDF](manual-oficial-compra-viagem.pdf) permanece como referência visual consolidada da R19.

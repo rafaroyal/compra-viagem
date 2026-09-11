@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.0 — Kit de produção e aplicações
+
+- Publica aplicações responsivas de referência em desktop e mobile.
+- Acrescenta splash web R18 e loader de rota independente da assinatura.
+- Publica exports PNG de produção em tamanhos padronizados.
+- Adiciona biblioteca fotográfica gerada para e-commerce e redes sociais.
+- Documenta Manrope, procedência das imagens, limites editoriais e direitos de uso.
+- Disponibiliza ZIP único com manifesto SHA-256.
+
 ## 1.0.0 — Sistema oficial
 
 - Consolida wordmark aprovado.

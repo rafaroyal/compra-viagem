@@ -21,9 +21,13 @@ Repositório oficial da identidade visual da **Compra Viagem**.
 | Regras da marca | [`docs/`](docs/README.md) |
 | Logos SVG e PNG | [`assets/logo/`](assets/logo/) |
 | Motion SVG, GIF e MP4 | [`assets/motion/`](assets/motion/) |
+| Splash e loading web | [`assets/motion/`](assets/motion/) |
+| Fotografias e recortes | [`assets/photography/`](assets/photography/) |
 | Tokens CSS e JSON | [`assets/tokens/`](assets/tokens/) |
+| Exports de produção | [`exports/`](exports/) |
 | Componente React | [`packages/react-brand-logo/`](packages/react-brand-logo/) |
-| Aplicações e e-commerce | [`examples/ecommerce/`](examples/ecommerce/) |
+| Aplicações desktop/mobile | [`examples/applications/`](examples/applications/) |
+| Download único | [`release/compra-viagem-brand-kit-v1.1.0.zip`](release/compra-viagem-brand-kit-v1.1.0.zip) |
 | Manual oficial em PDF | [`docs/manual-oficial-compra-viagem.pdf`](docs/manual-oficial-compra-viagem.pdf) |
 
 ## Uso rápido
@@ -40,6 +44,6 @@ Use a assinatura completa sempre que houver **128 px ou mais**. Abaixo desse lim
 
 ## Status
 
-Os arquivos em `assets/` representam o sistema aprovado. Estudos rejeitados e explorações anteriores não fazem parte deste repositório.
+Os arquivos em `assets/` representam o sistema aprovado. As telas em `examples/applications/` são referências de aplicação, não especificações fechadas do produto. Estudos rejeitados e explorações anteriores não fazem parte deste repositório.
 
 © Compra Viagem. Nenhuma licença de uso ou redistribuição é concedida por padrão. Consulte [`LICENSE.md`](LICENSE.md).

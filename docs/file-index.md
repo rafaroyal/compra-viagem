@@ -18,6 +18,21 @@
 
 - `assets/motion/full/` — SVG, MP4, GIF, storyboard, especificação e demo
 - `assets/motion/compact/` — SVG e GIF do ícone compacto
+- `assets/motion/splash.html` — aplicação do R18 como splash web
+- `assets/motion/loading/` — SVG e demo do loader de rota
+
+## Fotografia
+
+- `assets/photography/source/` — três masters gerados por IA
+- `assets/photography/ecommerce/` — três recortes 1920 × 1080
+- `assets/photography/social/` — seis recortes 4:5 e 1:1
+- `docs/photography-and-ai.md` — origem, limites e direitos de uso
+- `docs/image-generation-manifest.md` — prompts finais e identificação dos masters
+
+## Exports de produção
+
+- `exports/` — assinaturas PNG em quatro larguras e ícone PNG em quatro tamanhos
+- `docs/production-exports.md` — matriz de uso e handoff
 
 ## Tokens
 
@@ -36,3 +51,11 @@
 
 - `examples/ecommerce/homepage-60-30-10.png`
 - `examples/ecommerce/identity-60-30-10.png`
+- `examples/applications/compra-viagem-desktop.png`
+- `examples/applications/compra-viagem-mobile.png`
+- `examples/applications/travel-home.html`
+
+## Pacote único
+
+- `release/compra-viagem-brand-kit-v1.1.0.zip`
+- `release/SHA256SUMS.txt`

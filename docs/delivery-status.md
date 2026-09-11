@@ -7,7 +7,8 @@
 | R18 — motion completo | Aprovada | Narrativa oficial da assinatura |
 | R19 — sistema consolidado | Aprovada | Manual, tokens e kit oficial |
 | R20 — componente responsivo | Aprovada | Handoff Figma/front-end |
-| R21 — aplicações reais | Em validação | Não publicada como regra definitiva |
+| R21 — aplicações reais | Publicada como referência | Desktop/mobile; não é especificação definitiva do produto |
+| R22 — kit de produção | Publicada | Fotografia, splash/loading, exports e ZIP oficial |
 
 ## Versões substituídas ou rejeitadas
 

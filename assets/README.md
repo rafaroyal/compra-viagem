@@ -4,6 +4,7 @@ Este diretório contém apenas materiais aprovados para uso.
 
 - [`logo/`](logo/) — assinatura completa, ícone compacto e favicons.
 - [`motion/`](motion/) — motion completo R18 e motion compacto R15.
+- [`photography/`](photography/) — masters gerados e recortes para e-commerce/redes sociais.
 - [`tokens/`](tokens/) — variáveis de marca para design e código.
 
 Prefira SVG em interfaces e PNG em contextos que não suportam vetor. Não edite os arquivos exportados diretamente; alterações na identidade exigem uma nova rodada aprovada.

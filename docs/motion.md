@@ -28,4 +28,10 @@ O ícone animado é permitido em abertura compacta de aplicativo. Duração-base
 | Abertura compacta | R15 animada, uma vez |
 | `prefers-reduced-motion` | Estado final estático |
 
-Nunca use a animação em loop infinito ou como carregamento contínuo. Nenhuma informação pode depender do movimento.
+Nunca use o **logo R18** em loop infinito ou como carregamento contínuo. Para espera indeterminada, use o loader de rota em `assets/motion/loading/`, que não redesenha a assinatura. Nenhuma informação pode depender do movimento; em `prefers-reduced-motion`, apresente estado estático e texto de status.
+
+## Implementações web
+
+- `assets/motion/splash.html`: splash institucional com R18, uma execução e fallback estático.
+- `assets/motion/loading/compra-viagem-loading.svg`: espera indeterminada, compacta e em loop.
+- `assets/motion/loading/demo.html`: exemplo acessível com mensagem em `aria-live`.

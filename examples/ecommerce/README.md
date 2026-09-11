@@ -6,3 +6,5 @@ Estas imagens registram a direção visual aprovada com hierarquia 60/30/10, fot
 - `identity-60-30-10.png`: prancha de identidade e aplicações.
 
 Elas são referências de linguagem e não especificações de layout final do produto.
+
+As novas aplicações responsivas estão em [`../applications/`](../applications/): fonte HTML editável e capturas desktop/mobile para aprovação visual.
